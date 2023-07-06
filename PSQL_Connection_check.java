@@ -1,3 +1,5 @@
+// Java Code for Java Database Connectivity (JDBC)
+
 import java.sql.*;
 class PSQL_Connection_check {
     public static void main(String[] args) throws Exception {
