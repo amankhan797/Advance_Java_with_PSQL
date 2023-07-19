@@ -2,7 +2,6 @@
 
 import java.sql.*;
 import java.util.Scanner;
-
 class ABC {
     public static void main(String[] args) throws Exception {
         String Table;
